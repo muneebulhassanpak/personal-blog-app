@@ -1,0 +1,421 @@
+save a post --D
+enable jwt  --D
+find a way to use timestamps to predict the date and show on general crashed --D
+Fetch all posts for home pages --D
+show saved posts for a person  --D
+show single post --D
+finds posts with maximum view in last 24hours and display on home pages --D
+search posts --D
+filter posts by the tags --D
+only allow authenticated to do CRUD --D
+
+----------------------------------------------------------
+
+Login the person if he's loggedin --D
+the post being read in redux toolkit  --D
+if saved show the symbol as that --D
+correct saved videos logic --D
+show an all category in categories bar --D
+link the trending cards --D
+
+----------------------------------------------------------
+
+make something for person to upload his profile pic
+make editing post possible
+make post content readable
+
+use redux toolkit on frontend and do state managment
+
+
+
+
+Basic CRUD Operations API
+I will create CRUD Endpoints APIs for your Application.
+
+Intermediate level API
+I will create API with complete authentication/ Authorization
+
+Advanced API
+API development, Authentication / Authorization, Third party API integration
+
+Hello, I'm Muneeb, a skilled Full Stack Developer with 2 years of experience. Proficient in MERN stack, I craft fully functional web applications with expertise in HTML, CSS, JS, React, Node.js, Express.js, MongoDB, and more. I take pride in building secure and efficient applications that serve your business needs. Let's collaborate on frontend and backend tasks for exceptional results. Best regards, Muneeb
+
+----upwork
+
+--front end
+As a Front-End Developer specialized in design to HTML, CSS, and JavaScript & React, I have helped numerous agencies and businesses build their dream websites and succeed on various online platforms. 
+
+Over the past two years, I have developed around 30 websites, some of which were for others while some were for my self practice. Nonetheless, you can check out some of my finest works in my portfolio section.
+
+Here are a few of them:
+calm-slippers-goat.cyclic.app  (Full stack youtube clone)
+karmawebsitebymuneeb.netlify.app ( Plain HTML/CSS/JS/AOS)
+gradientwebsitebynmuneeb.netlify.app ( Plain HTML/CSS/JS)
+managewebsitebymuneeb.netlify.app ( React )
+
+My top priority as a Front-End Developer is to provide my clients with input on how to improve their website's front end. Additionally, I strive to ensure a near-perfect translation of designs while maintaining responsiveness, which is an absolute must. My ultimate goal is to accomplish more with less code.
+
+To achieve client satisfaction, I carefully understand their requirements, keep them informed of the project's progress, and offer suggestions for improvement.
+
+My skillset includes :
+1. Converting PSD, Figma, and Adobe XD designs to HTML, CSS, and JavaScript, Bootstrap, jQuery, and React
+2. HTML email signatures conversions
+3. HTML email templates conversions
+4. Responsiveness Fixes
+5. WordPress Website Creation (DIVI & Elementor)
+
+If you need assistance in any web development or website creation using the any builders,, allow me to assist you. I would be thrilled to help you achieve your goals. Please do not hesitate to contact me for any inquiries or project discussions.
+
+Closely understanding my client's demands, keeping them updated, and adding my input for areas of improvement is something I enjoy a lot.
+
+If you need any help with establishing yourself on the web, let me help you out with that. It would be a great pleasure. Any query or project discussions are welcomed.
+Thank you,
+
+--eziline
+-MERN Stack Developer | Eziline Software House
+Eziline software house, one of the top well-reputated software houses in Pakistan. I joined there as a MERN stack developer intern in 2022 later i became a full time employee there. My day to day challenges include working on full stack projects like ecommerce websites and software solutions for local institutes.
+
+-Front end Developer at Pak Software House
+I joined Pak software house as a front end developer intern in 2021. Everyday challenges included modern and unique designs to  be implemented both for the web and mobile.
+
+
+--Wordpress Website Designer & Redesigner| Divi & Elementor Lover 
+Are you ready to elevate your online presence and stand out from the crowd? Look no further! I'm Muneeb, a passionate WordPress developer with over TWO years of experience, and I've successfully delivered 50+ projects. Let me share with you why I'm the perfect partner for all your website needs.
+
+✨ Your uniqueness deserves an equally exceptional website, and that's precisely what I bring to the table. My specialization lies in crafting beautiful and responsive websites that are guaranteed to grab attention. With my creative touch and eye-catching designs, your online presence will leave a lasting impression.
+
+🚀 Your goal is a solid return on investment, and that's where I excel. I see things from a client's perspective and understand the importance of user experience. I focus on creating a user-friendly interface that effortlessly guides visitors towards your desired actions. Witness increased engagement and conversion rates with my expertly crafted websites!
+
+🎯 Of course, you want more traffic, and I've got you covered. I optimize every aspect of your website to ensure it ranks higher on search engines. From strategic keyword placement to clean code and lightning-fast loading times, I employ top-notch techniques to boost your online visibility.
+
+⚡️ Slow websites are a thing of the past with my expertise. I leave no stone unturned when it comes to making websites blazing fast. Say goodbye to slow-loading times and let your website worries vanish.
+
+🛠️ My services cover everything you need to enhance your online presence. Whether you require a brand new WordPress website, a captivating landing page, or a complete redesign, I've got you covered. Additionally, I offer theme customization, seamless WordPress migration, WooCommerce store setup, and top-notch SEO services to further boost your website's success.
+
+Services I offer:
+1. New WordPress website design or redesign (Simple/Business/E-commerce)
+2. Design file to WordPress conversion (Divi/Elementor)
+3. Divi and Elementor website customization
+4. Captivating landing page creation/cloning
+5. Speed optimization for an outstanding user experience
+
+Ready to take the leap? Contact me today, and together, we'll turn your vision into reality. Let's create a WordPress-powered masterpiece that drives remarkable results. Don't settle for ordinary when extraordinary is just a click away! Let me optimize your WordPress website for maximum success and visibility.
+
+
+
+
+
+
+
+
+
+Hello 🙌, I'm Muneeb, a skilled Full Stack Developer with 2 years of experience. Proficient in MERN stack, I craft fully functional web applications with expertise in HTML, CSS, JS, React, Node.js, Express.js, MongoDB, and more. 
+I take pride in building secure and efficient applications that serve your business needs. Let's collaborate on frontend and backend tasks for exceptional results.
+
+Here are a few of my recent projects:
+
+👉 calm-slippers-goat.cyclic.app  (Full stack youtube clone)
+👉 karmawebsitebymuneeb.netlify.app ( Plain HTML/CSS/JS/AOS)
+👉 gradientwebsitebynmuneeb.netlify.app ( Plain HTML/CSS/JS)
+👉 managewebsitebymuneeb.netlify.app ( React )
+
+My top priority as a developer is to provide my clients with input on how to improve their website's visually as well as technically. My ultimate goal is to accomplish more with less code.
+
+To achieve client satisfaction, I carefully understand their requirements, keep them informed of the project's progress, and offer suggestions for improvement.
+
+
+What i can do for you :
+👉 Create full functional applications with complete front end and backend
+👉 Customizing your existing applications or building up on them
+👉 Converting PSD, Figma, and Adobe XD designs to working websites
+👉 Responsiveness Fixes
+👉 Any Web related work in MERN stack 
+
+
+If you need any help with establishing yourself on the web, let me help you out with that. It would be a great pleasure. Any query or project discussions are welcomed.
+Thank you,
+
+
+
+
+  const handleEditPost = async () => {
+    const formData = new FormData();
+    formData.set("title", title);
+    formData.set("summary", summary);
+    formData.set("content", content);
+    formData.set("category", category.value);
+    formData.set("file", file);
+    try {
+      let response;
+      if (file != "") {
+        response = await fetch(updateSinglePostWithFile(idParam), {
+          method: "PUT",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          credentials: "include",
+          body: formData,
+        });
+      } else {
+        console.log("h");
+        response = await fetch(updateSinglePost(idParam), {
+          headers: {
+            method: "PUT",
+            "Content-Type": "application/json",
+          },
+          credentials: "include",
+          body: formData,
+        });
+      }
+      const data = await response.json();
+      data.success == true && successMessage("Post Saved successfully");
+      data.success == false && failureMessage("Error Saving Draft Post");
+    } catch (error) {
+      console.error("Error:", error);
+    }
+  };
+
+
+
+  =============working==============
+
+  import React, { useState, useEffect } from "react";
+import ReactQuill from "react-quill";
+import "react-quill/dist/quill.snow.css";
+import { useLocation, useNavigate } from "react-router-dom";
+import { ToastContainer } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
+import { successMessage, failureMessage } from "../URLs/Toasts";
+import { create } from "../URLs/Urls";
+import categories from "../URLs/Categories";
+import Select from "react-select";
+import { fetchSinglePost } from "../URLs/Urls";
+
+const modules = {
+  toolbar: [
+    [{ header: [1, 2, false] }],
+    ["bold", "italic", "underline", "strike", "blockquote"],
+    [
+      { list: "ordered" },
+      { list: "bullet" },
+      { indent: "-1" },
+      { indent: "+1" },
+    ],
+    ["link", "image"],
+    ["clean"],
+  ],
+};
+const formats = [
+  "header",
+  "bold",
+  "italic",
+  "underline",
+  "strike",
+  "blockquote",
+  "list",
+  "bullet",
+  "indent",
+  "link",
+  "image",
+];
+
+const Write = () => {
+  const [title, setTitle] = useState("");
+  const [summary, setSummary] = useState("");
+  const [file, setFile] = useState("");
+  const [content, setContent] = useState("");
+  const [category, setCategory] = useState(null);
+  const navigate = useNavigate();
+
+  //Query Parameter extraction
+  const location = useLocation();
+  const params = new URLSearchParams(location.search);
+  const idParam = params.get("id");
+  const editingParam = params.get("editing");
+
+  //Const formDataCreation
+
+  useEffect(() => {
+    const fetchPostData = async (id) => {
+      let response = await fetch(fetchSinglePost(id), {
+        method: "GET",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        credentials: "include",
+      });
+      response = await response.json();
+      console.log(response);
+      const post = response.post;
+      setTitle(post?.title);
+      setSummary(post?.summary);
+      setContent(post?.content);
+      setCategory({ value: post?.category, label: post?.category });
+    };
+    editingParam == "true" && fetchPostData(idParam);
+  }, []);
+
+  //Fetch used for publishing post
+  //Form submit handler
+  const formSubmitHandler = async (e) => {
+    e.preventDefault();
+    //Data preparation
+    const formData = new FormData();
+    formData.set("title", title);
+    formData.set("summary", summary);
+    formData.set("content", content);
+    formData.set("category", category.value);
+    formData.set("file", file);
+    try {
+      const response = await fetch(create("N"), {
+        method: "POST",
+        credentials: "include",
+        body: formData,
+      });
+      const data = await response.json();
+      data && successMessage("Post created successfully");
+      console.log(data);
+      setTimeout(() => {
+        navigate("/");
+      }, 2500);
+    } catch (error) {
+      console.error("Error:", error);
+    }
+  };
+
+  //Fetch used for saving posts in drafts
+  const handleDraftPost = async () => {
+    if (title.trim().length == 0 || !file) {
+      return failureMessage("Draft must have a Title & Image");
+    }
+    const formData = new FormData();
+    formData.set("title", title);
+    formData.set("summary", summary);
+    formData.set("content", content);
+    formData.set("category", category);
+    formData.set("file", file);
+    try {
+      const response = await fetch(create("Y"), {
+        method: "POST",
+        credentials: "include",
+        body: formData,
+      });
+      const data = await response.json();
+      data.success == true && successMessage("Draft Post created successfully");
+      data.success == false && failureMessage("Error Creating Draft Post");
+    } catch (error) {
+      console.error("Error:", error);
+    }
+  };
+
+  //Fetch used for saving drafted posts edit work
+
+  return (
+    <div className="mt-8 max-w-4xl mx-auto">
+      <div className="text-right">
+        {editingParam == "true" ? (
+          <button
+            className="bg-light-yellow px-3 py-1 rounded-md cursor-pointer"
+            // onClick={handleEditPost}
+          >
+            Save Work
+          </button>
+        ) : (
+          <button
+            className="bg-light-yellow px-3 py-1 rounded-md cursor-pointer"
+            onClick={handleDraftPost}
+          >
+            Save To Drafts
+          </button>
+        )}
+      </div>
+      <form
+        action=""
+        className="w-full px-2"
+        onSubmit={formSubmitHandler}
+        encType="multipart/form-data"
+      >
+        <h1 className="text-2xl text-center font-medium mb-3">
+          Welcome to your new post
+        </h1>
+        <input
+          type="text"
+          name="title"
+          placeholder="Enter post title"
+          className="block w-full p-3 border my-2 rounded-sm"
+          required
+          value={title}
+          onChange={(e) => {
+            setTitle(e.target.value);
+          }}
+        />
+        <input
+          type="text"
+          name="summary"
+          placeholder="Enter enter short description"
+          required
+          value={summary}
+          className="block w-full p-3 border my-2 rounded-sm"
+          onChange={(e) => {
+            setSummary(e.target.value);
+          }}
+        />
+        <div className="flex flex-col md:flex-row sm:justify-between sm:items-center border px-3 py-1 my-2">
+          <input
+            type="text"
+            disabled
+            placeholder="Choose a relevent category"
+            className="w-full md:flex-1 bg-white mb-1 md:mb-0"
+          />
+          <Select
+            className="w-full md:flex-1  rounded-md sm:p-2"
+            required
+            value={category}
+            options={categories.map((category) => ({
+              value: category,
+              label: category,
+            }))}
+            onChange={(selectedOption) => setCategory(selectedOption)}
+            placeholder="Choose a relevant category"
+          />
+        </div>
+
+        <div className="flex flex-col md:flex-row justify-between items-center border p-3 my-2">
+          <input
+            type="text"
+            disabled
+            placeholder="Choose a featured image"
+            className="w-full md:flex-1 bg-white mb-1 md:mb-0"
+          />
+          <input
+            type="file"
+            required
+            onChange={(e) => {
+              setFile(e.target.files[0]);
+            }}
+            className="w-full md:flex-1"
+          />
+        </div>
+        <ReactQuill
+          modules={modules}
+          formats={formats}
+          value={content}
+          onChange={(value) => {
+            setContent(value);
+          }}
+        />
+        <input
+          type="submit"
+          value="Publish Post"
+          className="block w-full p-3 text-center bg-pale-yellow cursor-pointer mt-2 rounded-sm"
+        />
+      </form>
+      <ToastContainer />
+    </div>
+  );
+};
+
+export default Write;
+
+
+  =============working==============
